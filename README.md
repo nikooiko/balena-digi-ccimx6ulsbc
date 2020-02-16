@@ -1,1 +1,1 @@
-# balena-digi-ccimx6ulsbc
+# balena-digi
